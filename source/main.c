@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-	
+	printf("This is Ch0-Lab4, my name is ³Õµ¾.\n");
 	system("pause");
 	return 0;
 }
