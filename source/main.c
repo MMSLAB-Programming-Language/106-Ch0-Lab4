@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 int main(void) {
-	
+	printf("This is Ch0-Lab4, my name is Albert\n");
+
 	system("pause");
 	return 0;
 }
